@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "NVS",
+    "slug": "votingApp",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "platforms": [
+      
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logonew.png",
+    "splash": {
+      "image": "./assets/logonew.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#eeeef1"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],"android": {
+      "package": "com.Ssuet.NVS"
+    }
+  }
+}
